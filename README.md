@@ -20,6 +20,9 @@ A simple multi-client server application where clients attempt to guess a secret
 4. Once the game ends, new clients are notified of the winner.
 5. If a client provides an invalid input, such as non-numeric characters, the server will notify them with a message like "Incorrect number format."
 
+![illustrating the process flow](illustration.png )
+
+
 ## Project Structure
 
 ```bash
